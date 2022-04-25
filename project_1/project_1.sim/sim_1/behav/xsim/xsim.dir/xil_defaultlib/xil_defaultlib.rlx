@@ -1,0 +1,20 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/busheska/Desktop/Lab 10/RTL/clkdiv.sv,1649334797,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/count_3bit.sv,,clkdiv,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/count_3bit.sv,1649339638,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/counter_bcd.sv,,count_3bit,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/counter_bcd.sv,1649886587,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/multiple_bcd.sv,,counter_bcd,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/debounce.sv,1649334918,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/dec_3_8.sv,,debounce,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/dec_3_8.sv,1649339453,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/lab10_top.sv,,dec_3_8,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/lab10_top.sv,1649878183,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/multiple_bcd.sv,,lab10_top,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/multiple_bcd.sv,1649343181,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/Simulation/multiple_bcd_tb.sv,,multiple_bcd,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/mux_8_1.sv,1649339345,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/register.sv,,mux_8_1,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/register.sv,1649590021,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/sevenseg_control.sv,,register,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/sevenseg_control.sv,1649592592,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/sevenseg_hex.sv,,sevenseg_control,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/sevenseg_hex.sv,1649339347,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/single_pulser.sv,,sevenseg_hex,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/RTL/single_pulser.sv,1649334979,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/Simulation/stopwatch_fsm.sv,,single_pulser,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/Simulation/multiple_bcd_tb.sv,1649887094,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/RTL/mux_8_1.sv,,multiple_bcd_tb,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/Simulation/stopwatch_fsm.sv,1649883996,systemVerilog,,C:/Users/busheska/Desktop/Lab 10/Simulation/stopwatch_fsm_tb.sv,,stopwatch_fsm,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/Simulation/stopwatch_fsm_tb.sv,1649886065,systemVerilog,,,,stopwatch_fsm_tb,,uvm,,,,,,
+C:/Users/busheska/Desktop/Lab 10/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,

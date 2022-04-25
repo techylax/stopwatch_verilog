@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../RTL/clkdiv.sv" \
+"../../../../../RTL/count_3bit.sv" \
+"../../../../../RTL/counter_bcd.sv" \
+"../../../../../RTL/debounce.sv" \
+"../../../../../RTL/dec_3_8.sv" \
+"../../../../../RTL/multiple_bcd.sv" \
+"../../../../../RTL/mux_8_1.sv" \
+"../../../../../RTL/register.sv" \
+"../../../../../RTL/sevenseg_control.sv" \
+"../../../../../RTL/sevenseg_hex.sv" \
+"../../../../../RTL/single_pulser.sv" \
+"../../../../../Simulation/stopwatch_fsm.sv" \
+"../../../../../RTL/lab10_top.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

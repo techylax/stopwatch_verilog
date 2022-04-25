@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Apr 13 18:57:50 2022
+# Process ID: 4484
+# Current directory: C:/Users/busheska/Desktop/Lab 10/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log lab10_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab10_top.tcl
+# Log file: C:/Users/busheska/Desktop/Lab 10/project_1/project_1.runs/synth_1/lab10_top.vds
+# Journal file: C:/Users/busheska/Desktop/Lab 10/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lab10_top.tcl -notrace
